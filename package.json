@@ -22,7 +22,7 @@
     "dayjs": "1.8.28",
     "firebase": "7.15.5",
     "fuzzysearch": "^1.0.3",
-    "gatsby": "2.24.85",
+    "gatsby": "4.25.7",
     "gatsby-plugin-antd": "^2.2.0",
     "gatsby-plugin-linaria": "^2.2.0",
     "gatsby-plugin-netlify": "^2.3.16",
